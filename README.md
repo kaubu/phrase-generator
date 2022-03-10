@@ -1,1 +1,2 @@
 # phrase-generator
+Generate phrases.
